@@ -1,0 +1,114 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    
+    font-size: 40px;
+    color: dimgray;
+}
+h2{
+    padding-top: 60px;
+    font-size: 40px;
+    color: dimgray;
+}
+.highlight{
+    color: orange;
+}
+p{
+    font-size: large;
+    
+    
+    
+}
+.link-button{
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    background-image: linear-gradient(lightsalmon,tomato);
+    color: whitesmoke;
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 70px;
+}
+.half-width{
+    
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 8%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.scnd-part{
+    background-image: url(Images/7.png);
+    padding-left: 0px;
+    margin-bottom: 20px;
+
+
+}
+
+#trd-head{
+    text-align: center;
+}
+#trd-p{
+    text-align: center;
+    width: 50%;
+    padding-left: 25%;
+}
+.last-width{
+    
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    box-shadow: 10px 10px 40px grey;
+}
+.last-width img{
+    width: 100%;
+}
+.fifth-part{
+    box-sizing: border-box;
+    display: inline-flex;
+    
+}
+.lastest{
+    border-radius: 15px;
+    width: 1050px;
+    height: 200px;
+    margin: 145px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px darkgrey ;
+    
+
+}
+.size{
+    font-size: 50px;
+    padding-right: 10px;
+    padding-top: 40px;
+}
+.width{
+    padding-left: 90px;
+    padding-bottom: 60px;
+}
+.foot{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 0px;
+    border-style: solid;
+    background-color: black;
+}
+#food{
+    color: chocolate;
+}
+#eat{
+    color: beige;
+}
+#net{
+    color: darkslategrey;
+}
